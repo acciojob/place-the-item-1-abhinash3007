@@ -1,62 +1,12 @@
 
 /* Your CSS Code here. */
-.main{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	margin-bottom:20px;
 }
-.div1{
+.item{
 	width:100px;
 	height:100px;
 	background-color:green;
-}
-.div2{
-	width:100px;
-	height:100px;
-	background-color:red;
-}
-.div3{
-	width:100px;
-	height:100px;
-	background-color:blue;
-}
-.main2{
-	display:flex;
-	flex-wrap:wrap;
-	justify-content:space-between;
-}
-.div4{
-	width:100px;
-	height:100px;
-	background-color:green;
-}
-.div5{
-	width:100px;
-	height:100px;
-	background-color:green;
-}
-.div6{
-	width:100px;
-	height:100px;
-	background-color:green;
-}
-.div7{
-	width:100px;
-	height:100px;
-	background-color:green;
-}
-.div8{
-	width:100px;
-	height:100px;
-	background-color:green;
-}
-.div9{
-	width:100px;
-	height:100px;
-	background-color:red;
-}
-.div10{
-	width:100px;
-	height:100px;
-	background-color:blue;
 }
